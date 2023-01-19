@@ -1,3 +1,5 @@
+<link href='styles.css?version=1' rel='stylesheet'></link>
+
 .App {
   text-align: center;
 }
@@ -36,3 +38,15 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  color:green;
+  justify: center
+}
+
+img{
+  width: 25%;
+  height:auto;
+  background-color:#dd9662;
+}
+
